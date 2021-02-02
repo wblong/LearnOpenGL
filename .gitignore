@@ -1,0 +1,5 @@
+# Misc
+.vscode/*
+.vs/**/*
+.idea/**.*
+.DS_Store
